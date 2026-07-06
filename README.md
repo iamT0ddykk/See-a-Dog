@@ -57,7 +57,7 @@ see-a-dog/
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/see-a-dog.git
+git clone https://github.com/iamT0ddykk/see-a-dog.git
 ```
 
 2. Entre na pasta do projeto:
