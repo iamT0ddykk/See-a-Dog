@@ -8,10 +8,9 @@ O projeto foi desenvolvido utilizando apenas **HTML, CSS e JavaScript puro**, se
 
 ---
 
-## 📸 Preview
+## 🎥 Demonstração
 
-*(adicione aqui uma imagem ou GIF do projeto funcionando)*
-
+![Demo](/imgs/print dogi.png)
 ---
 
 ## 🎯 Objetivo do projeto
