@@ -10,32 +10,13 @@ O projeto foi desenvolvido utilizando apenas **HTML, CSS e JavaScript puro**, se
 
 ## 🎥 Demonstração
 
-![Demo](imgs/print dogi.png)
----
+![Demo](imgs/printdogi.png)
 
 ## 🎯 Objetivo do projeto
 
 O **See a Dog** foi criado como uma demonstração de como eram os sites antigos, onde a experiência era mais simples e focada em uma ação específica.
 
 A ideia foi criar uma página leve, funcional e nostálgica, lembrando a época em que os sites eram construídos apenas com as tecnologias fundamentais da web.
-
----
-
-## 🛠️ Tecnologias utilizadas
-
-* HTML5
-* CSS3
-* JavaScript (Vanilla JS)
-
----
-
-## ✨ Funcionalidades
-
-* Botão para gerar uma nova imagem de cachorro
-* Busca de imagens aleatórias através de API
-* Manipulação do DOM com JavaScript
-* Layout simples inspirado em páginas web antigas
-* Sem uso de frameworks
 
 ---
 
@@ -84,11 +65,6 @@ O projeto utiliza uma API pública para buscar imagens aleatórias de cachorros.
 ## 📚 Aprendizados
 
 Com este projeto foi possível praticar:
-
-* Manipulação de elementos HTML com JavaScript
-* Consumo de APIs utilizando Fetch
-* Estrutura básica de uma aplicação web
-* Criação de interfaces simples sem dependências
 
 ---
 
