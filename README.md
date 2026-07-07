@@ -10,7 +10,7 @@ O projeto foi desenvolvido utilizando apenas **HTML, CSS e JavaScript puro**, se
 
 ## 🎥 Demonstração
 
-![Demo](/imgs/print dogi.png)
+![Demo](imgs/print dogi.png)
 ---
 
 ## 🎯 Objetivo do projeto
